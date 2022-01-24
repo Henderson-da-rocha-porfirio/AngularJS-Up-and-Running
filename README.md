@@ -7,7 +7,7 @@ Todo o código-fonte para o [AngularJS Up & Running Book for O'Reilly](http://sh
 
 Usando NodeJS
 ```
-git clone https://github.com/shyamseshadri/angularjs-up-and-running
+https://github.com/hendersonporfirio-dev/angularjsExamples.git
 cd angularjs-up-and-running
 npm init
    (aceitar todos os padrões)
@@ -21,7 +21,7 @@ diretório de exemplo é servido
 Usando Python
 
 ```
-git clone https://github.com/shyamseshadri/angularjs-up-and-running
+https://github.com/hendersonporfirio-dev/angularjsExamples.git
 cd angularjs-up-and-running
 python -m SimpleHTTPServer
 ```
