@@ -1,7 +1,7 @@
 angularjsExamples
 ========================
 
-Todo o código-fonte para o [AngularJS Up & Running Book for O'Reilly](http://shop.oreilly.com/product/0636920033486.do)
+Todo o código-fonte para o [Desenvolvendo com AngularJS - Aumento de Produtividade Com Aplicações Web Estruturadas](http://shop.oreilly.com/product/0636920033486.do)
 
 *Passos para arquivos do servidor localmente*
 
