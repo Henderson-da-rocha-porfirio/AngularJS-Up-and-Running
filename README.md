@@ -8,7 +8,7 @@ Todo o código-fonte para o [AngularJS Up & Running Book for O'Reilly](http://sh
 Usando NodeJS
 ```
 https://github.com/hendersonporfirio-dev/angularjsExamples.git
-cd angularjs-up-and-running
+cd angularjsExamples
 npm init
    (aceitar todos os padrões)
 npm install --save http-servidor
