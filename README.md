@@ -11,7 +11,7 @@ https://github.com/hendersonporfirio-dev/angularjsExamples.git
 cd angularjsExamples
 npm init
    (aceitar todos os padrões)
-npm install --save http-servidor
+npm install --save http-server
 node node_modules/http-server/bin/http-server
 ```
 
