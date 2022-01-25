@@ -12,7 +12,7 @@ cd angularjsExamples
 npm init
    (aceitar todos os padrões)
 npm install --save http-servidor
-nó node_modules/http-server/bin/http-server
+node node_modules/http-server/bin/http-server
 ```
 
 conectar o navegador a http://localhost:8080
@@ -22,7 +22,7 @@ Usando Python
 
 ```
 https://github.com/hendersonporfirio-dev/angularjsExamples.git
-cd angularjs-up-and-running
+cd angularjsExamples
 python -m SimpleHTTPServer
 ```
 
