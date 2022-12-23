@@ -1,7 +1,7 @@
 angularjsExamples
 ========================
 
-Exemplo extraído de: [Desenvolvendo com AngularJS - Aumento de Produtividade Com Aplicações Web Estruturadas](http://shop.oreilly.com/product/0636920033486.do)
+Exemplo extraído de: [AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do)
 
 *Passos para arquivos do servidor localmente*
 
